@@ -1,6 +1,6 @@
 {
-  "name": "@aalzehla/capacitor-jailbreak-root-detection",
-  "version": "1.0.3",
+  "name": "@aeins/capacitor-jailbreak-root-detection",
+  "version": "1.0.5-a1.2",
   "description": "Jailbreak Root detection plugin for capacitor.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "AalzehlaCapacitorJailbreakRootDetection.podspec"
+    "AeinsCapacitorJailbreakRootDetection.podspec"
   ],
   "author": "Ateik Alzehla",
   "license": "MIT",
